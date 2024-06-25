@@ -1,0 +1,569 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Pholio",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/site.sociolib.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolios",
+            "screenshot": "screenshots\/portfolios.jpg",
+            "source": "templates\/portfolios.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/portfolios\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.jpg",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Post",
+            "screenshot": "screenshots\/post.jpg",
+            "source": "templates\/post.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Off Canvas",
+            "screenshot": "screenshots\/off-canvas.jpg",
+            "source": "templates\/off-canvas.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/off-canvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform",
+            "screenshot": "screenshots\/metform.jpg",
+            "source": "templates\/metform.json",
+            "preview_url": "https:\/\/site.sociolib.com\/pholio\/template-kit\/metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "3.8.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/off-canvas.json",
+                    "name": "Off Canvas"
+                }
+            ],
+            "filesize": 5009,
+            "dimensions": [
+                350,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 42863,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8A7HQ9PDCM"
+        },
+        {
+            "filename": "06.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 11277,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "07.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 21299,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "08.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 20198,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "04.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolios.json",
+                    "name": "Portfolios"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 37110,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/black-iphone-4-on-black-textile-UgDMkhzaG0o"
+        },
+        {
+            "filename": "05.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolios.json",
+                    "name": "Portfolios"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 37826,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/blue-and-white-visa-card-on-black-and-gray-laptop-computer-QuusekRfTI8"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13665,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8A7HQ9PDCM"
+        },
+        {
+            "filename": "12.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11094,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8A7HQ9PDCM"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14431,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8A7HQ9PDCM"
+        },
+        {
+            "filename": "09.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 46094,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/8A7HQ9PDCM"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolios.json",
+                    "name": "Portfolios"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 28753,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/black-iphone-4-on-yellow-chair-AmRjWx3b6ac"
+        },
+        {
+            "filename": "12.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolios.json",
+                    "name": "Portfolios"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 37362,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/black-security-camera-xDPZ3xTEh2g"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolios.json",
+                    "name": "Portfolios"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 17659,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/activity-tracker-reading-11-36-mo-21-QRWAdBCqysc"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolios.json",
+                    "name": "Portfolios"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 22560,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/a-blue-polaroid-camera-with-an-orange-lanyard-Uv-aBkzQ9wI"
+        },
+        {
+            "filename": "17.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/17-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/post.json",
+                    "name": "Post"
+                }
+            ],
+            "filesize": 57683,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/black-and-gray-camera-on-book-FQzQFQs_P6o"
+        },
+        {
+            "filename": "16.jpg",
+            "thumbnail_url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/16-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/post.json",
+                    "name": "Post"
+                }
+            ],
+            "filesize": 34281,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/graphic-design-now-book-on-black-plate-5zZW5KxCDSU"
+        }
+    ]
+}

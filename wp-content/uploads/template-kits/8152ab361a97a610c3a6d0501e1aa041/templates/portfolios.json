@@ -1,0 +1,487 @@
+{
+    "version": "0.4",
+    "title": "Portfolios",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "f1af2b3",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "740aace6",
+                    "settings": {
+                        "icon_list": [
+                            {
+                                "text": "Portfolios",
+                                "selected_icon": {
+                                    "value": "far fa-folder-open",
+                                    "library": "fa-regular"
+                                },
+                                "_id": "ac6ad4f"
+                            }
+                        ],
+                        "text_indent": {
+                            "unit": "px",
+                            "size": 5,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "icon_typography_typography": "globals\/typography?id=accent",
+                            "icon_color": "globals\/colors?id=e777cd9"
+                        },
+                        "_animation": "fadeInUp",
+                        "icon_align": "center"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "icon-list",
+                    "elType": "widget"
+                },
+                {
+                    "id": "45fa9524",
+                    "settings": {
+                        "title": "Recent Projects",
+                        "_animation": "fadeInUp",
+                        "header_size": "h1",
+                        "align": "center"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6c4053b4",
+                    "settings": {
+                        "flex_direction": "row",
+                        "margin": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5e9e6ce6",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "4c4d5b53",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/04.jpg",
+                                            "id": 198,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Piqo Mobile UI",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                                        "title_size": "h5",
+                                        "text_align": "left",
+                                        "image_space": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "2eb64cf8",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "33c658e6",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2023\/12\/05.jpg",
+                                            "id": 202,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Dashboard App",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                                        "title_size": "h5",
+                                        "text_align": "left",
+                                        "image_space": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 250,
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "507c2e3b",
+                    "settings": {
+                        "flex_direction": "row",
+                        "margin": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "35803135",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "45c5610",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/13.jpg",
+                                            "id": 521,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Ear Bud Design",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                                        "title_size": "h5",
+                                        "text_align": "left",
+                                        "image_space": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "59d6cf2",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "457c059b",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/12.jpg",
+                                            "id": 522,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Moment Photohack",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                                        "title_size": "h5",
+                                        "text_align": "left",
+                                        "image_space": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 250,
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "1cbba597",
+                    "settings": {
+                        "flex_direction": "row",
+                        "margin": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3e76b42c",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "33adc764",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/14.jpg",
+                                            "id": 520,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Modern Watch",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                                        "title_size": "h5",
+                                        "text_align": "left",
+                                        "image_space": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "4bf43aa1",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "3fe6a5ad",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/site.sociolib.com\/pholio\/wp-content\/uploads\/sites\/14\/2024\/01\/11.jpg",
+                                            "id": 523,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "title_text": "Polaroad",
+                                        "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                                        "title_size": "h5",
+                                        "text_align": "left",
+                                        "image_space": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "image_size": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "title_bottom_space": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "_animation": "fadeInUp",
+                                        "_animation_delay": 250,
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image-box",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
